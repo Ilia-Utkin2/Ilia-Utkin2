@@ -1,16 +1,20 @@
-## Hi there 👋
+# Привет! 👋 Меня зовут Илья Уткин
 
-<!--
-**Ilia-Utkin2/Ilia-Utkin2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я начинающий **Python Backend Developer** из Санкт-Петербурга. Специализируюсь на Django, REST API и PostgreSQL. Ищу возможности для развития в backend-разработке.
 
-Here are some ideas to get you started:
+### Мои проекты
+- [Foodgram](https://github.com/Ilia-Utkin2/Foodgram) — платформа для рецептов (Django, PostgreSQL, Docker).
+- [REST API для блога](https://github.com/Ilia-Utkin2/REST-API-blog) — API с CRUD (Django).
+- [Telegram-бот](https://github.com/Ilia-Utkin2/Telegram-bot) — бот на Python с asyncio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Навыки
+- 🛠️ **Технические**: Python, Django, PostgreSQL, REST API, Docker, Git
+- 🤝 **Софт-скиллы**: Коммуникация, тайм-менеджмент
+
+### Связаться со мной
+- 📧 Email: utkin-ilia20033@mail.ru
+- 📱 Telegram: [@qwerrrrrr4](https://t.me/qwerrrrrr4)
+
+### Статистика
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ilia-Utkin2&show_icons=true&theme=light)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Ilia-Utkin2&theme=light)
