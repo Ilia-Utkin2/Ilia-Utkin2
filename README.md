@@ -5,7 +5,7 @@
 ### Мои проекты
 - [Foodgram](https://github.com/Ilia-Utkin2/Foodgram) — платформа для рецептов (Django, PostgreSQL, Docker).
 - [REST API для блога](https://github.com/Ilia-Utkin2/REST-API-blog) — API с CRUD (Django).
-- [Telegram-бот](https://github.com/Ilia-Utkin2/Telegram-bot) — бот на Python с asyncio.
+- [Telebot-api](https://github.com/Ilia-Utkin2/Telegram-bot) — бот на Python с asyncio и API.
 
 ### Навыки
 - 🛠️ **Технические**: Python, Django, PostgreSQL, REST API, Docker, Git
