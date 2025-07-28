@@ -15,3 +15,6 @@
 - 📧 Email: utkin-ilia20033@mail.ru
 - 📱 Telegram: [@qwerrrrrr4](https://t.me/qwerrrrrr4)
 
+### Статистика
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ilia-Utkin2&show_icons=true&theme=light)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Ilia-Utkin2&theme=light)
